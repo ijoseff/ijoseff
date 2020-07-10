@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/josefftan/josefftan.github.io/master/assets/img/circle-cropped.png" alt="Girl in a jacket" width="500" height="250" />
+<img src="https://raw.githubusercontent.com/josefftan/josefftan.github.io/master/assets/img/portfolio/significant.png" alt="Girl in a jacket" width="500" height="250" />
 
 ### Hi there 👋
 
