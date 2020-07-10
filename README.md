@@ -1,8 +1,6 @@
-https://github.com/josefftan/josefftan.github.io/blob/master/assets/img/circle-cropped.png?raw=true
+<img src="https://raw.githubusercontent.com/josefftan/josefftan.github.io/master/assets/img/circle-cropped.png" alt="Girl in a jacket" width="500" height="250" />
 
 ### Hi there 👋
-
-<!--
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
