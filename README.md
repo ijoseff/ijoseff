@@ -1,4 +1,4 @@
-<img src="https://github.com/josefftan/josefftan.github.io/blob/master/assets/img/circle-cropped.png?raw=true" width="500" height="250" />
+https://github.com/josefftan/josefftan.github.io/blob/master/assets/img/circle-cropped.png?raw=true
 
 ### Hi there 👋
 
