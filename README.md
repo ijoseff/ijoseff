@@ -1,6 +1,6 @@
 <img src="https://github.com/josefftan/projects/blob/master/assets/img/portfolio/significant.png?raw=true" alt="Girl in a jacket" width="1000" height="250" />
 
-Here are some ideas to get you started:
+### 👋 Hello there!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
