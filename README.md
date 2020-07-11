@@ -1,7 +1,5 @@
 <img src="https://github.com/josefftan/projects/blob/master/assets/img/portfolio/significant.png?raw=true" alt="Girl in a jacket" width="1000" height="250" />
 
-### Hi there 👋
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
