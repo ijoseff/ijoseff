@@ -1,4 +1,4 @@
-<img src="https://github.com/ijoseff/projects/blob/master/assets/img/portfolio/significant.png?raw=true" width="1000" height="250" />
+<img src="https://github.com/ijoseff/blob/master/assets/img/portfolio/significant.png?raw=true" width="1000" height="250" />
 
 ### 👋 Hello there!
 
