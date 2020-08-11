@@ -2,8 +2,8 @@
 
 ### 👋 Hello there!
 
-- 🔭 I’m currently working on creating robust recommendation system.
 - 🌱 I’m currently learning on different applications of artificial intelligence.
+- 🔭 I’m currently working on creating robust recommendation system.
 - 🔷 linkedin: https://www.linkedin.com/in/ijoseff/
 - 🔷 Instagram: https://www.instagram.com/ijoseff/
 - 👯 I’m looking to collaborate on ...
